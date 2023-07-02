@@ -4,3 +4,5 @@
 <p>Link para a pagina:https://fdspk.github.io/ProjetoLandingPageonebitcode/</p>
 
 <p>Link para o Figma:https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=23%3A7365&mode=dev</p>
+
+<p><img src="https://github.com/fdspk/ProjetoLandingPageonebitcode/blob/main/TomsJazzSchool.png"></p>
